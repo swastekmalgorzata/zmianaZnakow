@@ -1,5 +1,5 @@
 #  Swapping signs
-> 
+> Basic program written in c#.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -16,24 +16,13 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Basic pragram that swaps the first sign and the last one sing that user keys in. 
+- The purpose was to excercise arrays and algorythms in c#.
+- I did it for my coding classes in my first semester.
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## Technologies Used.
+- Visual Studio 2019
 
 
 ## Screenshots
