@@ -17,7 +17,7 @@
 - Visual Studio 2019
 
 ## Screenshots
-!(/zamianaZnakow.png)
+!(./img/zamianaZnakow.png)
 
 ## Project Status
 Project is: complete
