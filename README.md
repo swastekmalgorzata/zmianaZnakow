@@ -4,8 +4,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
 * [Project Status](#project-status)
 
 ## General Information
@@ -15,9 +13,7 @@
 
 ## Technologies Used.
 - Visual Studio 2019
-
-## Screenshots
-!(./img/zamianaZnakow.png)
+- c#
 
 ## Project Status
 Project is: complete
